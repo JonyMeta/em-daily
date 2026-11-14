@@ -1,0 +1,61 @@
+{
+ "days": [
+  {
+   "date": "2026-11-14",
+   "reviewed": 99,
+   "articles": [
+    {
+     "pmid": "43019972",
+     "title": "Multimodal Nonopioid Analgesia Versus Opioid-First Approaches for Acute Pain in the Emergency Department: A Systematic Review of Randomized Controlled Trials",
+     "journal": "J Emerg Med",
+     "journal_full": "The Journal of emergency medicine",
+     "study_type": "Systematic review",
+     "topic": "Analgesia & Sedation",
+     "doi": "10.1016/j.jemermed.2026.09.020",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43019972/"
+    },
+    {
+     "pmid": "43023765",
+     "title": "Identification of Regional Wall Motion Abnormalities by Emergency Physicians in Acute Coronary Syndromes: Systematic Review and Meta-Analysis",
+     "journal": "West J Emerg Med",
+     "journal_full": "The western journal of emergency medicine",
+     "study_type": "Meta-analysis",
+     "topic": "Ultrasound",
+     "doi": "10.5811/westjem.64752",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43023765/"
+    },
+    {
+     "pmid": "43025005",
+     "title": "Whole blood transfusion in adult patients with traumatic brain injury: A systematic review and meta-analysis",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Meta-analysis",
+     "topic": "Trauma",
+     "doi": "10.1016/j.ajem.2026.10.039",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43025005/"
+    },
+    {
+     "pmid": "43024045",
+     "title": "Comparison of automated and manual oxygen titration in emergency care: a systematic review and meta-analysis",
+     "journal": "CJEM",
+     "journal_full": "CJEM",
+     "study_type": "Meta-analysis",
+     "topic": "Airway & Respiratory",
+     "doi": "10.1007/s43678-026-01306-z",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43024045/"
+    },
+    {
+     "pmid": "43018963",
+     "title": "Treatment of Acute Ischemic Stroke: A Review",
+     "journal": "JAMA",
+     "journal_full": "JAMA",
+     "study_type": "Review",
+     "topic": "Neurology",
+     "doi": "10.1001/jama.2026.19482",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43018963/"
+    }
+   ]
+  }
+ ],
+ "updated": "2026-11-14T16:00+00:00"
+}
