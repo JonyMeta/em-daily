@@ -1,6 +1,42 @@
 {
  "days": [
   {
+   "date": "2026-11-16",
+   "reviewed": 6,
+   "articles": [
+    {
+     "pmid": "43034655",
+     "title": "Intra-arrest blood pressure monitoring during paediatric in-hospital cardiac arrest: a systematic review and meta-analysis",
+     "journal": "Resusc Plus",
+     "journal_full": "Resuscitation plus",
+     "study_type": "Systematic review & meta-analysis",
+     "topic": "Resuscitation",
+     "doi": "10.1016/j.resplu.2026.101538",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43034655/"
+    },
+    {
+     "pmid": "43033608",
+     "title": "Longer wait times after ED-initiated buprenorphine associated with lower appointment attendance",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Retrospective cohort (single-center)",
+     "topic": "Toxicology",
+     "doi": "10.1016/j.ajem.2026.11.021",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43033608/"
+    },
+    {
+     "pmid": "43034603",
+     "title": "Combining a Modified Emergency Severity Index Score with Chief Complaints - Validation of a New Allocation Algorithm for Integrated Emergency Centers",
+     "journal": "J Am Coll Emerg Physicians Open",
+     "journal_full": "Journal of the American College of Emergency Physicians open",
+     "study_type": "Validation study (retrospective, two-center)",
+     "topic": "ED Operations",
+     "doi": "10.1016/j.acepjo.2026.100534",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43034603/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-14",
    "reviewed": 99,
    "articles": [
@@ -57,5 +93,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T16:00+00:00"
+ "updated": "2026-11-16T03:46+00:00"
 }
