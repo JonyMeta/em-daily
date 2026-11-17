@@ -1,6 +1,32 @@
 {
  "days": [
   {
+   "date": "2026-11-17",
+   "reviewed": 12,
+   "articles": [
+    {
+     "pmid": "43036077",
+     "title": "Balanced Crystalloids Versus Normal Saline for Fluid Resuscitation in Pediatric Septic Shock: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+     "journal": "Pediatr Emerg Care",
+     "journal_full": "Pediatric emergency care",
+     "study_type": "Meta-analysis",
+     "topic": "Sepsis & Infection",
+     "doi": "10.1097/PEC.0000000000003746",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43036077/"
+    },
+    {
+     "pmid": "43036056",
+     "title": "Revisiting the Risk of Bacteremia in Well-Appearing Infants With Fever Without a Source ≥40 °C: A Multicenter Study",
+     "journal": "Pediatr Emerg Care",
+     "journal_full": "Pediatric emergency care",
+     "study_type": "Retrospective multicenter cohort",
+     "topic": "Pediatrics",
+     "doi": "10.1097/PEC.0000000000003751",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43036056/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-16",
    "reviewed": 6,
    "articles": [
@@ -93,5 +119,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T03:46+00:00"
+ "updated": "2026-11-17T03:46+00:00"
 }
