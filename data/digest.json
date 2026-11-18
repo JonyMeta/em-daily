@@ -1,6 +1,42 @@
 {
  "days": [
   {
+   "date": "2026-11-18",
+   "reviewed": 17,
+   "articles": [
+    {
+     "pmid": "43043325",
+     "title": "Ultrasound-Guided Suprascapular Nerve Block Versus Intravenous Fentanyl for Analgesia in Patients Presenting to the Emergency Department With Traumatic Scapular Fractures",
+     "journal": "Ann Emerg Med",
+     "journal_full": "Annals of emergency medicine",
+     "study_type": "RCT (pilot)",
+     "topic": "Analgesia & Sedation",
+     "doi": "10.1016/j.annemergmed.2026.09.009",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43043325/"
+    },
+    {
+     "pmid": "43040230",
+     "title": "Timing of mechanical CPR deployment and defibrillation process quality in shockable cardiac arrest: a multicenter retrospective cohort study",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Multicenter cohort",
+     "topic": "Resuscitation",
+     "doi": "10.1186/s12873-026-01726-1",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43040230/"
+    },
+    {
+     "pmid": "43040623",
+     "title": "Dexmedetomidine Versus Propofol Induction for Sedated Radiologic Procedures in Patients With Trisomy 21",
+     "journal": "Pediatr Emerg Care",
+     "journal_full": "Pediatric emergency care",
+     "study_type": "Multicenter registry cohort",
+     "topic": "Pediatrics",
+     "doi": "10.1097/PEC.0000000000003750",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43040623/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-17",
    "reviewed": 12,
    "articles": [
@@ -119,5 +155,5 @@
    ]
   }
  ],
- "updated": "2026-11-17T03:46+00:00"
+ "updated": "2026-11-18T03:46+00:00"
 }
