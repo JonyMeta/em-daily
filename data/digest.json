@@ -1,6 +1,52 @@
 {
  "days": [
   {
+   "date": "2026-11-19",
+   "reviewed": 26,
+   "articles": [
+    {
+     "pmid": "43049460",
+     "title": "High-Flow Nasal Cannula Versus Conventional Oxygen Therapy in Adults With De Novo Acute Hypoxemic Respiratory Failure: A Systematic Review and Meta-Analysis With Trial Sequential Analysis",
+     "journal": "Crit Care Med",
+     "journal_full": "Critical care medicine",
+     "study_type": "Meta-analysis",
+     "topic": "Airway & Respiratory",
+     "doi": "10.1097/CCM.0000000000007451",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43049460/"
+    },
+    {
+     "pmid": "43046131",
+     "title": "Prehospital tranexamic acid in trauma and traumatic brain injury: a systematic review with meta-analysis of randomized comparative evidence",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Meta-analysis",
+     "topic": "Trauma",
+     "doi": "10.1186/s12873-026-01735-0",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43046131/"
+    },
+    {
+     "pmid": "43044726",
+     "title": "Early Prehospital Prediction of Neurological Outcome After Out-of-Hospital Cardiac Arrest Derivation and External Validation of the MIRA-29 Score",
+     "journal": "Resuscitation",
+     "journal_full": "Resuscitation",
+     "study_type": "Prognostic score (derivation + external validation)",
+     "topic": "Resuscitation",
+     "doi": "10.1016/j.resuscitation.2026.111403",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43044726/"
+    },
+    {
+     "pmid": "43046141",
+     "title": "Intravesical tranexamic acid for gross hematuria in the emergency department: a prospective cohort study",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Prospective cohort (date-allocated, single-center)",
+     "topic": "Other",
+     "doi": "10.1186/s12873-026-01736-z",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43046141/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-18",
    "reviewed": 17,
    "articles": [
@@ -155,5 +201,5 @@
    ]
   }
  ],
- "updated": "2026-11-18T03:46+00:00"
+ "updated": "2026-11-19T03:46+00:00"
 }
