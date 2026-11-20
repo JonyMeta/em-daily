@@ -1,6 +1,62 @@
 {
  "days": [
   {
+   "date": "2026-11-20",
+   "reviewed": 13,
+   "articles": [
+    {
+     "pmid": "43053147",
+     "title": "Effect of megadose vitamin C in patients with sepsis: the CEMVIS randomized clinical trial",
+     "journal": "Crit Care",
+     "journal_full": "Critical care (London, England)",
+     "study_type": "RCT",
+     "topic": "Sepsis & Infection",
+     "doi": "10.1186/s13054-026-06280-7",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43053147/"
+    },
+    {
+     "pmid": "43055685",
+     "title": "Prehospital Trauma Compendium: Prehospital Management of Pediatric Traumatic Out-of-Hospital Circulatory Arrest - A Joint Position Statement and Resource Document of NAEMSP, ACS-COT, ACEP, and AAP",
+     "journal": "Prehosp Emerg Care",
+     "journal_full": "Prehospital emergency care",
+     "study_type": "Guideline / position statement",
+     "topic": "Pediatrics",
+     "doi": "10.1080/10903127.2026.2660751",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43055685/"
+    },
+    {
+     "pmid": "43053187",
+     "title": "Endotracheal intubation practices, success rates and adverse events in four Dutch emergency departments: a multicentre retrospective study",
+     "journal": "Scand J Trauma Resusc Emerg Med",
+     "journal_full": "Scandinavian journal of trauma, resuscitation and emergency medicine",
+     "study_type": "Multicenter cohort",
+     "topic": "Airway & Respiratory",
+     "doi": "10.1186/s13049-026-01679-1",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43053187/"
+    },
+    {
+     "pmid": "43051254",
+     "title": "Management of Traumatic Pneumothorax in the Emergency Department: A Two-Centre Retrospective Cohort Study",
+     "journal": "Emerg Med Australas",
+     "journal_full": "Emergency medicine Australasia : EMA",
+     "study_type": "Cohort study",
+     "topic": "Trauma",
+     "doi": "10.1111/1742-6723.70401",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43051254/"
+    },
+    {
+     "pmid": "43056114",
+     "title": "Bystander CPR Type and Outcomes After Pediatric Out-of-Hospital Cardiac Arrest",
+     "journal": "JAMA Netw Open",
+     "journal_full": "JAMA network open",
+     "study_type": "Nationwide registry cohort",
+     "topic": "Resuscitation",
+     "doi": "10.1001/jamanetworkopen.2026.44991",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43056114/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-19",
    "reviewed": 26,
    "articles": [
@@ -201,5 +257,5 @@
    ]
   }
  ],
- "updated": "2026-11-19T03:46+00:00"
+ "updated": "2026-11-20T03:46+00:00"
 }
