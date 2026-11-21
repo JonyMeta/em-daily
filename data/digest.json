@@ -1,6 +1,62 @@
 {
  "days": [
   {
+   "date": "2026-11-21",
+   "reviewed": 19,
+   "articles": [
+    {
+     "pmid": "43058869",
+     "title": "Discordant evidence on corticosteroids in sepsis: a meta-research study",
+     "journal": "Crit Care",
+     "journal_full": "Critical care (London, England)",
+     "study_type": "Meta-research (42 SRs)",
+     "topic": "Sepsis & Infection",
+     "doi": "10.1186/s13054-026-06471-2",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43058869/"
+    },
+    {
+     "pmid": "43061852",
+     "title": "Clinical characteristics and outcomes of massive gamma-hydroxybutyrate exposure in a multicentre emergency department cohort",
+     "journal": "Clin Toxicol (Phila)",
+     "journal_full": "Clinical toxicology (Philadelphia, Pa.)",
+     "study_type": "Multicentre cohort",
+     "topic": "Toxicology",
+     "doi": "10.1080/15563650.2026.2761522",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43061852/"
+    },
+    {
+     "pmid": "43057152",
+     "title": "Serum lactate distribution across neurologic emergencies: implications for seizure identification",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Diagnostic cohort",
+     "topic": "Neurology",
+     "doi": "10.1016/j.ajem.2026.11.011",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43057152/"
+    },
+    {
+     "pmid": "43061855",
+     "title": "Clinical characteristics of unregulated psychoactive supplement exposures: a 15-year multicenter study of kratom, phenibut, and tianeptine",
+     "journal": "Clin Toxicol (Phila)",
+     "journal_full": "Clinical toxicology (Philadelphia, Pa.)",
+     "study_type": "Multicenter registry",
+     "topic": "Toxicology",
+     "doi": "10.1080/15563650.2026.2761523",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43061855/"
+    },
+    {
+     "pmid": "43057568",
+     "title": "Bedside ECMO Cannulation by Intensivists and Emergency Physicians",
+     "journal": "Chest",
+     "journal_full": "Chest",
+     "study_type": "Review",
+     "topic": "Resuscitation",
+     "doi": "10.1016/j.chest.2026.10.051",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43057568/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-20",
    "reviewed": 13,
    "articles": [
@@ -257,5 +313,5 @@
    ]
   }
  ],
- "updated": "2026-11-20T03:46+00:00"
+ "updated": "2026-11-21T03:46+00:00"
 }
