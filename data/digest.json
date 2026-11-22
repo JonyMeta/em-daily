@@ -1,6 +1,22 @@
 {
  "days": [
   {
+   "date": "2026-11-22",
+   "reviewed": 6,
+   "articles": [
+    {
+     "pmid": "43064595",
+     "title": "Does CT seatbelt sign, traumatic abdominal wall hernia or body habitus predict injuries and patient outcomes following a restrained motor vehicle collision? A New Zealand cohort study",
+     "journal": "Injury",
+     "journal_full": "Injury",
+     "study_type": "Cohort study",
+     "topic": "Trauma",
+     "doi": "10.1016/j.injury.2026.113901",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43064595/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-21",
    "reviewed": 19,
    "articles": [
@@ -313,5 +329,5 @@
    ]
   }
  ],
- "updated": "2026-11-21T03:46+00:00"
+ "updated": "2026-11-22T03:46+00:00"
 }
