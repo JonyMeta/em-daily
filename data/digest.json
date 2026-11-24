@@ -1,6 +1,22 @@
 {
  "days": [
   {
+   "date": "2026-11-24",
+   "reviewed": 8,
+   "articles": [
+    {
+     "pmid": "43071377",
+     "title": "Direct Oral Anticoagulant Use and Acute Intracranial Hemorrhage in Adults Undergoing CT After Head Injury",
+     "journal": "JAMA Netw Open",
+     "journal_full": "JAMA network open",
+     "study_type": "Cohort (3 EDs)",
+     "topic": "Trauma",
+     "doi": "10.1001/jamanetworkopen.2026.45624",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43071377/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-23",
    "reviewed": 6,
    "articles": [
@@ -345,5 +361,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T03:46+00:00"
+ "updated": "2026-11-24T03:46+00:00"
 }
