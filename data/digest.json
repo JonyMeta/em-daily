@@ -1,6 +1,62 @@
 {
  "days": [
   {
+   "date": "2026-11-25",
+   "reviewed": 15,
+   "articles": [
+    {
+     "pmid": "43072799",
+     "title": "Intramuscular Olanzapine or Droperidol for Acute Behavioral Disturbance in Children and Adolescents: The PEAChY-M Randomized Clinical Trial",
+     "journal": "JAMA",
+     "journal_full": "JAMA",
+     "study_type": "RCT",
+     "topic": "Psychiatry",
+     "doi": "10.1001/jama.2026.25561",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43072799/"
+    },
+    {
+     "pmid": "43076168",
+     "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial",
+     "journal": "JAMA",
+     "journal_full": "JAMA",
+     "study_type": "RCT",
+     "topic": "Sepsis & Infection",
+     "doi": "10.1001/jama.2026.25627",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43076168/"
+    },
+    {
+     "pmid": "43076208",
+     "title": "Prehospital Fluid Resuscitation for Patients With Suspected Sepsis: The PITSTOP-Fluids Factorial Randomized Clinical Trial",
+     "journal": "JAMA",
+     "journal_full": "JAMA",
+     "study_type": "RCT",
+     "topic": "Prehospital & EMS",
+     "doi": "10.1001/jama.2026.25614",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43076208/"
+    },
+    {
+     "pmid": "43076805",
+     "title": "Frequency and Causes of Waveform Capnography Failure After Successful Emergency Tracheal Intubation",
+     "journal": "Ann Emerg Med",
+     "journal_full": "Annals of emergency medicine",
+     "study_type": "Retrospective cohort",
+     "topic": "Airway & Respiratory",
+     "doi": "10.1016/j.annemergmed.2026.09.025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43076805/"
+    },
+    {
+     "pmid": "43076808",
+     "title": "Prediction of Acetaminophen-Induced Hepatotoxicity in Acetylcysteine-Treated Patients Using Routine Admission Biomarkers",
+     "journal": "Ann Emerg Med",
+     "journal_full": "Annals of emergency medicine",
+     "study_type": "Retrospective cohort",
+     "topic": "Toxicology",
+     "doi": "10.1016/j.annemergmed.2026.10.008",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43076808/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-24",
    "reviewed": 8,
    "articles": [
@@ -361,5 +417,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T03:46+00:00"
+ "updated": "2026-11-25T03:46+00:00"
 }
