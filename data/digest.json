@@ -1,6 +1,32 @@
 {
  "days": [
   {
+   "date": "2026-11-26",
+   "reviewed": 13,
+   "articles": [
+    {
+     "pmid": "43078115",
+     "title": "Ringer's lactate versus saline in the fluids in septic shock (FISSH) trial: a multicentre, blinded, parallel-group, randomised controlled trial",
+     "journal": "Lancet Respir Med",
+     "journal_full": "The Lancet. Respiratory medicine",
+     "study_type": "RCT",
+     "topic": "Sepsis & Infection",
+     "doi": "10.1016/S2213-2600(26)00347-4",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43078115/"
+    },
+    {
+     "pmid": "43079532",
+     "title": "Diagnostic accuracy, characteristics and survival of children with trauma in HEMS: a retrospective multi-centre observational study",
+     "journal": "Scand J Trauma Resusc Emerg Med",
+     "journal_full": "Scandinavian journal of trauma, resuscitation and emergency medicine",
+     "study_type": "Retrospective multicentre diagnostic-accuracy study",
+     "topic": "Prehospital & EMS",
+     "doi": "10.1186/s13049-026-01685-3",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43079532/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-25",
    "reviewed": 15,
    "articles": [
@@ -417,5 +443,5 @@
    ]
   }
  ],
- "updated": "2026-11-25T03:46+00:00"
+ "updated": "2026-11-26T03:46+00:00"
 }
