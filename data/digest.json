@@ -1,6 +1,52 @@
 {
  "days": [
   {
+   "date": "2026-11-27",
+   "reviewed": 11,
+   "articles": [
+    {
+     "pmid": "43085293",
+     "title": "Emerging designer sedatives and adulterants in the emergency department: A narrative review",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Narrative review",
+     "topic": "Toxicology",
+     "doi": "10.1016/j.ajem.2026.11.025",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43085293/"
+    },
+    {
+     "pmid": "43085292",
+     "title": "Prehospital whole blood warming and trauma-induced coagulopathy in combat casualties: A retrospective cohort study",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Retrospective cohort (national registry)",
+     "topic": "Prehospital & EMS",
+     "doi": "10.1016/j.ajem.2026.11.030",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43085292/"
+    },
+    {
+     "pmid": "43085291",
+     "title": "Temporal course of seizure cluster resolution in children with benign convulsions with mild gastroenteritis",
+     "journal": "Am J Emerg Med",
+     "journal_full": "The American journal of emergency medicine",
+     "study_type": "Retrospective cohort",
+     "topic": "Pediatrics",
+     "doi": "10.1016/j.ajem.2026.11.019",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43085291/"
+    },
+    {
+     "pmid": "43086026",
+     "title": "Evaluating the Role of Ten Second Triage in Mass-Casualty Incidents: A Rapid Review of Early Major-Incident Triage Tools",
+     "journal": "Emerg Med Australas",
+     "journal_full": "Emergency medicine Australasia : EMA",
+     "study_type": "Rapid review",
+     "topic": "Prehospital & EMS",
+     "doi": "10.1111/1742-6723.70402",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43086026/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "reviewed": 13,
    "articles": [
@@ -443,5 +489,5 @@
    ]
   }
  ],
- "updated": "2026-11-26T03:46+00:00"
+ "updated": "2026-11-27T03:46+00:00"
 }
