@@ -1,6 +1,42 @@
 {
  "days": [
   {
+   "date": "2026-11-28",
+   "reviewed": 17,
+   "articles": [
+    {
+     "pmid": "43099382",
+     "title": "Noninvasive hemoglobin measurement in the emergency department: agreement, anemia detection, and the effect of perfusion index",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Diagnostic accuracy (prospective)",
+     "topic": "Diagnostics",
+     "doi": "10.1186/s12873-026-01860-w",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43099382/"
+    },
+    {
+     "pmid": "43099374",
+     "title": "Agreement between handheld ultrasonography and computed tomography for abdominal aortic diameter measurement in unselected emergency department patients: a prospective feasibility study",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Diagnostic accuracy (prospective, feasibility)",
+     "topic": "Ultrasound",
+     "doi": "10.1186/s12873-026-01750-1",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43099374/"
+    },
+    {
+     "pmid": "43099353",
+     "title": "Acute traumatic coagulopathy and hypofibrinogenemia in trauma patients who receive prehospital transfusion: a retrospective cohort study",
+     "journal": "BMC Emerg Med",
+     "journal_full": "BMC emergency medicine",
+     "study_type": "Cohort study (retrospective, pilot)",
+     "topic": "Trauma",
+     "doi": "10.1186/s12873-026-01763-w",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/43099353/"
+    }
+   ]
+  },
+  {
    "date": "2026-11-27",
    "reviewed": 11,
    "articles": [
@@ -489,5 +525,5 @@
    ]
   }
  ],
- "updated": "2026-11-27T03:46+00:00"
+ "updated": "2026-11-28T03:46+00:00"
 }
